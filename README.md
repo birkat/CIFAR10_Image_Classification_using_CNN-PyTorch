@@ -74,5 +74,3 @@ Training images were augmented using:
 * Transfer Learning (ResNet/VGG)
 * Learning Rate Scheduling
 * Hyperparameter Tuning
-* Confusion Matrix Visualization
-* TensorBoard Integration
